@@ -50,5 +50,23 @@ onEvent('recipes', event => {
         G: 'dimdungeons:block_gilded_portal',
         E: 'minecraft:ender_eye',
         B: 'minecraft:stone_bricks'
+      }),
+
+      event.shaped('8x tconstruct:yellow_clear_stained_glass', [
+        'GGG',
+        'GYG',
+        'GGG'
+      ], {
+        G: 'tconstruct:clear_glass',
+        Y: '#forge:dyes/yellow'
+      }),
+        
+      event.shaped('8x cookingforblockheads:yellow_kitchen_floor', [
+        'GGG',
+        'GYG',
+        'GGG'
+      ], {
+        G: 'cookingforblockheads:white_kitchen_floor',
+        Y: '#forge:dyes/yellow'
       })
   })
