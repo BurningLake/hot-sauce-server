@@ -31,7 +31,8 @@
     "lightLevel": "NIGHT"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "feedItem": "minecraft:glowstone"
   },
   "TraitData": {
     "hasTraits": true

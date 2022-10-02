@@ -1,0 +1,12 @@
+{
+    "singularity.extendedcrafting.fluorite": "Fluorite",
+    "singularity.extendedcrafting.netherite": "Netherite",
+    "singularity.extendedcrafting.osmium": "Osmium",
+    "singularity.extendedcrafting.zinc": "Zinc",
+
+    "block.extendedcrafting.the_ultimate_block": "Pure Hot Sauce Block",
+    "item.extendedcrafting.the_ultimate_ingot": "Pure Hot Sauce Ingot",
+    "item.extendedcrafting.the_ultimate_nugget": "Pure Hot Sauce Nugget",
+    "item.extendedcrafting.the_ultimate_catalyst": "Pure Hot Sauce Catalyst",
+    "item.extendedcrafting.the_ultimate_component": "Pure Hot Sauce Component"
+}

@@ -1,0 +1,30 @@
+{
+    "flower": "tag:forge:storage_blocks/zinc",
+    "maxTimeInHive": 600,
+    "hasHoneycomb": true,
+    "baseLayerTexture": "zinc",
+    "ColorData": {
+      "isBeeColored": false,
+      "honeycombColor": "#818653",
+      "modelType": "ORE"
+    },
+    "MutationData": {
+      "hasMutation": false
+    },
+    "CentrifugeData": {
+      "hasCentrifugeOutput": true,
+      "mainOutput": "create:zinc_ingot",
+      "mainOutputCount": 1
+    },
+    "SpawnData": {
+      "canSpawnInWorld": false
+    },
+    "BreedData": {
+      "feedItem": "tag:forge:storage_blocks/zinc",
+      "parent1": "Creeper",
+      "parent2": "Emerald",
+      "feedAmount": 1,
+      "isBreedable": true
+    },
+    "TraitData": {}
+  }

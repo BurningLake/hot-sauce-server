@@ -1,0 +1,30 @@
+{
+    "flower": "tag:forge:storage_blocks/fluorite",
+    "maxTimeInHive": 600,
+    "hasHoneycomb": true,
+    "baseLayerTexture": "fluorite",
+    "ColorData": {
+      "isBeeColored": false,
+      "honeycombColor": "#c5d1fe",
+      "modelType": "ORE"
+    },
+    "MutationData": {
+      "hasMutation": false
+    },
+    "CentrifugeData": {
+      "hasCentrifugeOutput": true,
+      "mainOutput": "mekanism:fluorite_gem",
+      "mainOutputCount": 1
+    },
+    "SpawnData": {
+      "canSpawnInWorld": false
+    },
+    "BreedData": {
+      "feedItem": "tag:forge:storage_blocks/fluorite",
+      "parent1": "Quartz",
+      "parent2": "Skeleton",
+      "feedAmount": 1,
+      "isBreedable": true
+    },
+    "TraitData": {}
+  }

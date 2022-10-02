@@ -1,0 +1,47 @@
+{
+    "block.resourcefulbees.copper_honeycomb_block": "Copper Honeycomb Block",
+    "item.resourcefulbees.copper_honeycomb": "Copper Honeycomb",
+    "item.resourcefulbees.copper_bee_spawn_egg": "Copper Bee Spawn Egg",
+    "entity.resourcefulbees.copper_bee": "Copper Bee",
+
+    "block.resourcefulbees.tin_honeycomb_block": "Tin Honeycomb Block",
+    "item.resourcefulbees.tin_honeycomb": "Tin Honeycomb",
+    "item.resourcefulbees.tin_bee_spawn_egg": "Tin Bee Spawn Egg",
+    "entity.resourcefulbees.tin_bee": "Tin Bee",
+
+    "block.resourcefulbees.zinc_honeycomb_block": "Zinc Honeycomb Block",
+    "item.resourcefulbees.zinc_honeycomb": "Zinc Honeycomb",
+    "item.resourcefulbees.zinc_bee_spawn_egg": "Zinc Bee Spawn Egg",
+    "entity.resourcefulbees.zinc_bee": "Zinc Bee",
+
+    "block.resourcefulbees.lead_honeycomb_block": "Lead Honeycomb Block",
+    "item.resourcefulbees.lead_honeycomb": "Lead Honeycomb",
+    "item.resourcefulbees.lead_bee_spawn_egg": "Lead Bee Spawn Egg",
+    "entity.resourcefulbees.lead_bee": "Lead Bee",
+
+    "block.resourcefulbees.uranium_honeycomb_block": "Uranium Honeycomb Block",
+    "item.resourcefulbees.uranium_honeycomb": "Uranium Honeycomb",
+    "item.resourcefulbees.uranium_bee_spawn_egg": "Uranium Bee Spawn Egg",
+    "entity.resourcefulbees.uranium_bee": "Uranium Bee",
+
+    "block.resourcefulbees.osmium_honeycomb_block": "Osmium Honeycomb Block",
+    "item.resourcefulbees.osmium_honeycomb": "Osmium Honeycomb",
+    "item.resourcefulbees.osmium_bee_spawn_egg": "Osmium Bee Spawn Egg",
+    "entity.resourcefulbees.osmium_bee": "Osmium Bee",
+
+    "block.resourcefulbees.fluorite_honeycomb_block": "Fluorite Honeycomb Block",
+    "item.resourcefulbees.fluorite_honeycomb": "Fluorite Honeycomb",
+    "item.resourcefulbees.fluorite_bee_spawn_egg": "Fluorite Bee Spawn Egg",
+    "entity.resourcefulbees.fluorite_bee": "Fluorite Bee",
+
+    "block.resourcefulbees.quartz_honeycomb_block": "Quartz Honeycomb Block",
+    "item.resourcefulbees.quartz_honeycomb": "Quartz Honeycomb",
+    "item.resourcefulbees.quartz_bee_spawn_egg": "Quartz Bee Spawn Egg",
+    "entity.resourcefulbees.quartz_bee": "Quartz Bee",
+
+    "block.resourcefulbees.abeenaz": "Abeenaz Honeycomb Block",
+    "item.resourcefulbees.abeenaz_honeycomb": "Abeenaz Honeycomb",
+    "item.resourcefulbees.abeenaz_bee_spawn_egg": "Abeenaz Bee Spawn Egg",
+    "entity.resourcefulbees.abeenaz_bee": "Abeenaz Bee"
+ 
+}

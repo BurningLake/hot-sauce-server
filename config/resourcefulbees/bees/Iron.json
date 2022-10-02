@@ -31,7 +31,8 @@
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "isBreedable": true
+    "isBreedable": true,
+    "feedItem": "tag:forge:storage_blocks/iron"
   },
   "TraitData": {}
 }

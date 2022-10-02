@@ -14,7 +14,5 @@ onEvent('recipes', event => {
 	event.remove({output: 'resourcefulbees:t4_hive_upgrade'}),
 
 	// Other Stuff
-	event.remove({output: 'cyclic:soulstone'}),
-	event.remove({output: 'tconstruct:yellow_clear_stained_glass'}),
-    event.remove({output: 'cookingforblockheads:yellow_kitchen_floor'})
+	event.remove({output: 'cyclic:soulstone'})
   })

@@ -32,7 +32,7 @@
     "biomeBlacklist": "tag:ocean"
   },
   "BreedData": {
-    "feedItem": "minecraft:poppy",
+    "feedItem": "tag:forge:storage_blocks/coal",
     "feedAmount": 4,
     "isBreedable": true
   },

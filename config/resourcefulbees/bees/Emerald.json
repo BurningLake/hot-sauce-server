@@ -30,7 +30,8 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "spawnWeight": 4
+    "spawnWeight": 4,
+    "feedItem": "tag:forge:storage_blocks/emerald"
   },
   "TraitData": {}
 }
